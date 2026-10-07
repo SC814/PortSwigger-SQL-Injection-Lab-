@@ -39,9 +39,13 @@ I'm continuing to work through more PortSwigger labs to strengthen my web applic
 I'm documenting each practical along the way — not just to show what I completed, but to make sure I understand why each technique works.
 
 📌 Platform: PortSwigger Web Security Academy
+
 🎯 Lab: SQL Injection – Product Category Filter
+
 🛠️ Tool: Burp Suite
+
 ✅ Status: Completed
+
 🔐 Focus: SQL Injection | Web Application Security | Burp Suite | Ethical Hacking
 
 One more lab. One more concept understood. One more step forward. 🔐🚀
