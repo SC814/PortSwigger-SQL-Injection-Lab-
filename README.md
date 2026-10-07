@@ -32,7 +32,7 @@ It's about understanding how an application processes user input and how that in
 
 Seeing the application's behavior change after modifying the request made the concept much clearer for me.
 
- What's Next?
+ # What's Next?
 
 I'm continuing to work through more PortSwigger labs to strengthen my web application security and penetration testing skills.
 
