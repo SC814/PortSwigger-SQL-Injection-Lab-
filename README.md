@@ -6,7 +6,7 @@ I recently completed a SQL Injection lab on PortSwigger Web Security Academy, wh
 
 This lab was a great opportunity to move beyond simply knowing what SQL Injection is and actually understand how the attack works in practice.
 
-🎯 What I Practiced
+ # What I Practiced
 
 🔹 Intercepting HTTP requests with Burp Suite
 
@@ -24,7 +24,7 @@ This lab was a great opportunity to move beyond simply knowing what SQL Injectio
 
 🔹 Retrieving products that were originally hidden by the application
 
-🧠 Key Takeaway
+ # Key Takeaway
 
 The biggest lesson from this lab was that SQL Injection isn't just about memorizing payloads.
 
@@ -32,7 +32,7 @@ It's about understanding how an application processes user input and how that in
 
 Seeing the application's behavior change after modifying the request made the concept much clearer for me.
 
-🚀 What's Next?
+ What's Next?
 
 I'm continuing to work through more PortSwigger labs to strengthen my web application security and penetration testing skills.
 
