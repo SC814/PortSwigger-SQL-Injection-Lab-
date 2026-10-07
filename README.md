@@ -9,12 +9,19 @@ This lab was a great opportunity to move beyond simply knowing what SQL Injectio
 🎯 What I Practiced
 
 🔹 Intercepting HTTP requests with Burp Suite
+
 🔹 Identifying a vulnerable category parameter
+
 🔹 Using Burp Repeater to modify requests
+
 🔹 Crafting and testing a SQL Injection payload
+
 🔹 Understanding OR 1=1 and SQL query logic
+
 🔹 Using -- to comment out part of a SQL query
+
 🔹 Analyzing the server response after the injection
+
 🔹 Retrieving products that were originally hidden by the application
 
 🧠 Key Takeaway
